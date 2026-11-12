@@ -49,7 +49,7 @@ O site apresenta ritmos musicais, artistas importantes e a contribuição dos po
 A música brasileira possui uma forte ligação com a cultura africana. Reconhecer essa influência é valorizar a história, a resistência e a identidade dos povos negros que contribuíram para a construção cultural do Brasil.
 
 ## 👨‍💻 Desenvolvedor
-
+Desenvolvido por :Thalisson e Arthur
 Projeto desenvolvido como atividade educacional, com o objetivo de compartilhar conhecimentos sobre a influência negra na música brasileira.
 
 ---
